@@ -8,4 +8,4 @@ ipython_config.py
 
 *.csv
 *.txt
-
+*.parquet
